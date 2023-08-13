@@ -38,6 +38,7 @@ The `Previous-Version` branch serves as a backup for the first valid demo.
 # How the demo works
 * Open the demo with Unity (the editor version for the demo is `2022.3.5f1`).
 * Run the server `APP.py` in Assets/_OurAssets/server/
+* Open the scene (Assets/Scenes/Playground)
 * Press `Play` in the editor and start the demo.
 
 Note: Detailed guidance can be found in `Guide.pdf`.
