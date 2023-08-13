@@ -31,7 +31,10 @@ We focus on enhancing user experience, making the solution more effective in lar
 ![image](images/guide7.png)
 
 # How to use this repository
-The `main` branch is the `Latest-Version`, which contains our final version demo.
+The `main` branch is the `Latest-Version`, which contains our final version demo. Please download this branch.
+
+The root directory of the demo is `LatestVersion`. It contains three folders. Use your Unity Hub to open the project, and Unity will install the needed packages automatically.
+
 
 The `Previous-Version` branch serves as a backup for the first valid demo.
 
