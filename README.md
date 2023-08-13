@@ -26,7 +26,7 @@ Shirley Xu(Manshu Xu):
 # Introduction
 An AR indoor navigation solution is proposed in this project. Based on camera indoor positioning, navigation achieves better performance with fewer markers. We create a Unity demo and a Python server to demonstrate our design. 
 
-We focus on enhancing user experience, making the solution more effective in large indoor environments like shopping malls and museums. Dynamic obstacles such as gates and other visitors are simulated in the demo to evaluate navigation performance. We also implement voice input for a more convenient input method on real AR devices. The image below shows the UI and the navigation line of our system.
+We focus on enhancing user experience, making the solution more effective in large indoor scenes like shopping malls and museums. Dynamic obstacles such as gates and other visitors are simulated in the demo to evaluate navigation performance. We also implement voice input for a more convenient input method on real AR devices. The image below shows the UI and the navigation line of our system.
 
 ![image](images/guide7.png)
 
