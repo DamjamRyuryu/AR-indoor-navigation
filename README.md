@@ -31,12 +31,12 @@ We focus on enhancing user experience, making the solution more effective in lar
 ![image](images/guide7.png)
 
 # How to use this repository
-The `main` branch contains two versions of our demo. It is recommended to download the `Latest Version` branch, which contains the final version of our demo only.
+The `main` branch contains two versions of our demo. It is recommended to download the `Latest-Version` branch, which contains the final version of our demo only.
 
-The `Previous Version` branch serves as a backup for the first valid demo.
+The `Previous-Version` branch serves as a backup for the first valid demo.
 
 # How the demo work
-* Open the demo with Unity (the editor version for the demo is 2022.3.5f1).
+* Open the demo with Unity (the editor version for the demo is `2022.3.5f1`).
 * Run the server in Assets/_OurAssets/server/APP.py
 * Press `Play` in the editor and start the demo.
 
